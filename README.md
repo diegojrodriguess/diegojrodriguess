@@ -33,6 +33,6 @@
   
 </div>
 
-![Snake animation](https://github.com/diegojrodriguess/diegojrodriguess/blob/output/github-contribution-grid-snake.svg)
+
 
 
