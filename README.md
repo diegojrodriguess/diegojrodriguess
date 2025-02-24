@@ -1,7 +1,7 @@
-### Hi! My name is Diego Rodrigues. This is my Github profile. 👋🦅
+### Hi! My name is Diego Rodrigues. This is my Github profile. 
 
 
-- 🌱 6/10 - Software Engineering - Instituto Nacional de Telecomunicações (INATEL)
+- 🌱 9/10 - Software Engineering - Instituto Nacional de Telecomunicações (INATEL)
 - 📫 Email: diego.rodrigues@ges.inatel.br
 
 
@@ -22,7 +22,7 @@
 <img align ="center" alt="Diego-JS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 
 
-<img align="right" alt="Diego-pic" height="150" src="https://media0.giphy.com/media/xT1XGVp95GDPgFYmUE/giphy.gif?cid=ecf05e471w198jcp9xsl07ifdkcg6bmdallb6iu0kbmf4v10&rid=giphy.gif&ct=g"/>
+
 
 
 
