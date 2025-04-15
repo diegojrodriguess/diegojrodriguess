@@ -14,21 +14,63 @@
 
 <div style="display: inline_block"><br>
 
-<img align ="center" alt="Diego-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align ="center" alt="Diego-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align ="center" alt="Diego-HTML" height="30" width="40" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" />
-<img align ="center" alt="Diego-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
-<img align ="center" alt="Diego-JS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+### 🛠️ Languages:
+| ![TypeScript](https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000) | ![Java](https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000) | ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) | ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+|:---:|:---:|:---:|:---:|:---:|
+| TypeScript | Java | Python | C++ | JavaScript |
 
+---
 
+### 🌐 Front-End Frameworks:
+| ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg) |
+|:---:|:---:|:---:|
+| Next.js | React | Angular |
 
+---
 
+### 🖥️ Back-End Frameworks:
+| ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) |
+|:---:|:---:|:---:|
+| Spring | Node.js | Express.js |
 
+---
 
-         
+### 🗄️ ORM:
+| ![Hibernate](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg) | ![Sequelize](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg) |
+|:---:|:---:|
+| Hibernate | Sequelize |
+
+---
+
+### 🗄️ Databases:
+| ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg) | ![Neo4j](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg) |
+|:---:|:---:|:---:|:---:|
+| MySQL | PostgreSQL | MongoDB | Neo4j |
+
+---
+
+### 🧪 Testing Frameworks:
+| ![JUnit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg) | ![Jest](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg) | ![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg) | ![Cypress](https://cdn.brandfetch.io/idIq_kF0rb/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B) |
+|:---:|:---:|:---:|:---:|
+| JUnit | Jest | Postman | Cypress |
+
+---
+
+### 🌟 Extras:
+| ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg) |
+|:---:|:---:|:---:|
+| Docker | Git | Jenkins |
+
+---
+
+### 🏃 Agile Methodologies:
+| ![Scrum](https://img.icons8.com/?size=100&id=gWYOPTHcZ9kK&format=png&color=000000) | ![Kanban](https://img.icons8.com/?size=100&id=HFUgsRLCgVo2&format=png&color=000000) |
+|:---:|:---:|
+| Scrum | Kanban |
 </div>
 
+---
+### Contact:
 <div> 
  
   <a href = "mailto:diego.rodrigues@ges.inatel.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
