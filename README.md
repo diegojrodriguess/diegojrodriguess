@@ -33,12 +33,6 @@
 |:---:|:---:|:---:|
 | Spring | Node.js | Express.js |
 
----
-
-### 🗄️ ORM:
-| ![Hibernate](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg) | ![Sequelize](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg) |
-|:---:|:---:|
-| Hibernate | Sequelize |
 
 ---
 
