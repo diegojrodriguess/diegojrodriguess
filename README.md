@@ -57,13 +57,6 @@
 
 ---
 
-### 🏃 Agile Methodologies:
-| ![Scrum](https://img.icons8.com/?size=100&id=gWYOPTHcZ9kK&format=png&color=000000) | ![Kanban](https://img.icons8.com/?size=100&id=HFUgsRLCgVo2&format=png&color=000000) |
-|:---:|:---:|
-| Scrum | Kanban |
-</div>
-
----
 ### Contact:
 <div> 
  
