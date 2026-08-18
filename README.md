@@ -110,14 +110,6 @@ Developed an IoT solution capable of monitoring the volume of concrete delivered
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diegojrodriguess&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojrodriguess&layout=compact&langs_count=8"/>
-</div>
-
----
 
 ## 🤝 Let's connect
 
